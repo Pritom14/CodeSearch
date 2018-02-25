@@ -30,6 +30,6 @@ This android application is made with the help of [searchcode api](https://searc
 
 ## Contributing
 
-Please read the CONTRIBUTING.md for details on code of conduct and the process for submitting pull requests.
+Please read the [CONTRIBUTING.md] (https://github.com/Pritom14/CodeSearch/blob/master/CONTRIBUTING.md) for details on code of conduct and the process for submitting pull requests.
 
 
