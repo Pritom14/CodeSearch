@@ -2,7 +2,7 @@
 
 Search across any repository of code. Type the term you want to search and you will be presented with the best results. 
 
-For example type in **quciksort **in the search box and you will be presented with the results as shown below
+For example type in **quciksort** in the search box and you will be presented with the results as shown below
 
 ![image alt text](image_0.jpg)
 
