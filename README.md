@@ -32,4 +32,8 @@ This android application is made with the help of [searchcode api](https://searc
 
 Please read the [CONTRIBUTING.md](https://github.com/Pritom14/CodeSearch/blob/master/CONTRIBUTING.md) for details on code of conduct and the process for submitting pull requests.
 
+## License
+
+> See [LICENSE](https://github.com/Pritom14/CodeSearch/blob/master/LICENSE) for the whole license text
+
 
