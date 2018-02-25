@@ -16,10 +16,8 @@ For example type in **quciksort **in the search box and you will be presented wi
 
 Click on this [link](https://developer.android.com/studio/index.html#Installing) to download Android Studio for your operating system.
 
-	
 
 **Building up the code**
-
     1. Clone the repository using HTTP or SSH
     2. Open Android Studio
     3. Browse to the directory where you cloned the repository and click OK.
