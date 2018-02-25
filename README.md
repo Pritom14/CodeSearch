@@ -4,11 +4,11 @@ Search across any repository of code. Type the term you want to search and you w
 
 For example type in **quciksort** in the search box and you will be presented with the results as shown below
 
-![image alt text](image_0.jpg)
+![image alt text](/Screenshots/resultlist.jpeg)
 
 ## GIF
 
-![image alt text](image_1.gif)
+![image alt text](/Screenshots/images.gif)
 
 ## Installing
 
