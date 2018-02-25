@@ -35,6 +35,7 @@ Please read the [CONTRIBUTING.md](https://github.com/Pritom14/CodeSearch/blob/ma
 ## License
 
 > Copyright (c) 2018 Pritom Mazumdar
+
 > Licensed under MIT (See [LICENSE](https://github.com/Pritom14/CodeSearch/blob/master/LICENSE) for the whole license text)
 
 
